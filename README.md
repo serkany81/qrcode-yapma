@@ -1,0 +1,2 @@
+# qrcode-yapma
+qrcode yapımı 
